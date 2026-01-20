@@ -1,4 +1,5 @@
 # Visa Approval Prediction: A classification model to facilitate the Visa approval process for foreign workers in the United States.
+<center><img src="https://images.pexels.com/photos/7235894/pexels-photo-7235894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="800" height="500"></center>
 
 ## Overview
 This project focuses on building a machine learning classification model to facilitate the visa approval process for foreign workers in the United States. The goal is to assist the Office of Foreign Labor Certification (OFLC) in shortlisting candidates with higher chances of visa approval, thereby streamlining the review process which has become increasingly tedious due to a rising number of applications.
